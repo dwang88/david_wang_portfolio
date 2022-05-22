@@ -52,19 +52,19 @@ a {
 }
 
 .kct {
-    background-color: lightgoldenrodyellow;
+    background-color: rgb(255, 255, 176);
 }
 
 .frc {
-    background-color: lightcoral;
+    background-color: rgb(188, 255, 188);
 }
 
 .det {
-    background-color: lightblue;
+    background-color: rgb(197, 241, 255);
 }
 
 .dhscc {
-    background-color: lightgreen;
+    background-color: rgb(255, 194, 203);
 }
 
 .footer a {
@@ -122,5 +122,9 @@ table {
 
     .row {
         flex-direction: column;
+    }
+
+    .scroll {
+        width: 100%;
     }
 }
